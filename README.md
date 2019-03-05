@@ -72,4 +72,4 @@ Ini Tabel Testing
 
 </table>
 
-[Ini Hyperlink Testing](https://testing2.github.arviandri.tk)
+[Ini Hyperlink Testing](https://anz007.github.io/Testing-2/)

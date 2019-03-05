@@ -12,9 +12,25 @@
 
 Ini adalah Testing (p)
 
+```c++
+	include <iostream>
+	using namespace std;
+	int main (void) {
+		cout<<"Ini adalah Testing (Code)(C++)<<endl;
+		return 0;
+	}
+```
+```java
+	public class Testing {
+		public static void main (String [] Args) {
+			System.out.println("Ini adalah Testing (Code)(Java));
+		}
+	}
+```
+
 Ini Gambar Testing :
 
-![](https://testing.github.arviandri.tk/files/testing.jpg)
+![](https://anz007.github.io/Testing/files/testing.jpg)
 
 Ini Tabel Testing
 
